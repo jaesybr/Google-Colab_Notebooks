@@ -59,7 +59,7 @@ A Collection of Google Colab Notebooks for scripts & projects
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/flux/Chroma_1_HD.ipynb)  | Chroma1-HD for text to Image
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/LTX/LTX2_TI2V_Distilled.ipynb)  | LTX-2 for Text/Image to Video with Audio
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/wan2_2/SVI2Pro.ipynb)  | Stable-Video-Infinity 2.0 Pro for Image to long Video Generation
-
+| [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/LTX/Experiment%20LTX23_TI2V_Distilled.ipynb) | LTX-23 for Text/Image to Video with Audio (by [@know1234567](https://github.com/know1234567))
 
 
 You can find more notebooks [here](https://isinse.gumroad.com/) 
@@ -72,6 +72,6 @@ Some of the comfyUI workflows are modifications of Kijai's workflows which you c
 If you find these notebooks helpful, you can support me [here](https://github.com/sponsors/Isi-dev)
 
 ## Contributing
-I currently don't have the time to review pull requests. If you find any bugs or run into issues, please report them in the Issues section. Thanks!
+PR reviews and merges may be delayed due to current professional and personal engagements. Thanks!
 
 
