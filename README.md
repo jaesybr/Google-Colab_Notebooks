@@ -60,6 +60,7 @@ A Collection of Google Colab Notebooks for scripts & projects
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/LTX/LTX2_TI2V_Distilled.ipynb)  | LTX-2 for Text/Image to Video with Audio
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/wan2_2/SVI2Pro.ipynb)  | Stable-Video-Infinity 2.0 Pro for Image to long Video Generation
 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/LTX/Experiment%20LTX23_TI2V_Distilled.ipynb) | LTX-23 for Text/Image to Video with Audio (by [@know1234567](https://github.com/know1234567))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/ComfyUI/Z_Image/Z_image_turbo_for_T2I.ipynb)  | Z-Image Turbo for Text to Image
 
 
 You can find more notebooks [here](https://isinse.gumroad.com/) 
